@@ -1,0 +1,31 @@
+
+.header{
+
+    border: 5px solid rgb(243, 235, 235);
+    border:collapse;
+    background-color: rgb(38, 82, 148);
+    color:rgb(255, 255, 255);
+    display: grid;
+    place-items:center;
+    height:100pt;
+    width:100vw;
+}
+.body
+{
+    display: grid;
+    place-items: center;
+}
+
+.form
+{    
+    background-color: rgb(38, 82, 148);
+    border: 3px solid black;
+    border-radius: 2pt;
+    margin:100pt;
+    width: 400pt;
+    height : 300pt;
+    display: grid;
+    place-items: center;
+    color:white;
+    
+}
